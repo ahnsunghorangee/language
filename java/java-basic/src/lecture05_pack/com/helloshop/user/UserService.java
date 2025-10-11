@@ -1,0 +1,4 @@
+package lecture05_pack.com.helloshop.user;
+
+public class UserService {
+}
