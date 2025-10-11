@@ -1,4 +1,4 @@
-package lecture3_oop1;
+package lecture03_oop1;
 
 public class MusicPlayerData {
     int volume = 0;

@@ -1,4 +1,4 @@
-package lecture3_oop1;
+package lecture03_oop1;
 
 /* 절차지향 프로그래밍 - 클래스와 메서드 분리 */
 public class MusicPlayerMain3 {

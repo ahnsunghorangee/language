@@ -1,4 +1,4 @@
-package lecture1_class1.ex;
+package lecture01_class1.ex;
 
 public class ProductOrderMain {
 

@@ -1,4 +1,4 @@
-package lecture3_oop1.ex;
+package lecture03_oop1.ex;
 
 public class Rectangle {
     int width;

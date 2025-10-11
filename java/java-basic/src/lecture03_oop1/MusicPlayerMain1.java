@@ -1,4 +1,4 @@
-package lecture3_oop1;
+package lecture03_oop1;
 
 /* 절차지향 프로그래밍 */
 public class MusicPlayerMain1 {

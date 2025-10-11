@@ -1,4 +1,4 @@
-package lecture1_class1;
+package lecture01_class1;
 
 public class ClassStart1 {
 

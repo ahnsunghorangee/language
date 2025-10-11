@@ -1,4 +1,4 @@
-package lecture3_oop1.ex;
+package lecture03_oop1.ex;
 
 /* 절차지향 프로그래밍 */
 public class RectangleProceduralMain {

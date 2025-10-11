@@ -1,4 +1,4 @@
-package lecture3_oop1;
+package lecture03_oop1;
 
 /* 객체지향 프로그래밍 - 캡슐화: 속성과 기능을 하나로 묶어서 외부에 제공하는 것 */
 public class MusicPlayer {

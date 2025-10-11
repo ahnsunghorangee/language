@@ -16,6 +16,7 @@ chapter02. 파이썬 프로그래밍의 기초, 자료형
 연산자: +, *
 함수:
 - len(), 인덱싱(-도 가능), 슬라이싱 [0:10], [:10], [10:], [10:-7], 
+- del, append(), sort(), reverse(), index(), insert(), remove(), count(), extend()
 '''
 
 a = 10
